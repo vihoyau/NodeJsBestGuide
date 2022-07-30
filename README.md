@@ -6,6 +6,8 @@
 4.平时不免会遇到各种棘手的bug，也会参考实际情况，编写此文，如何排查和做好日志优化。</br>
 5.参考其他语言架构，分析nodejs的劣势和优势</br>
 
+## Open source purpose
+
 1. The best practice is compared with the Chinese and English versions. It is open source and reasonably combined with the DDD domain design and micro service design of Chinese Internet companies</ br>
 
 2. Combined with the open source approach, this article explains how to write a project that conforms to the design pattern of the open source environment</ br>
