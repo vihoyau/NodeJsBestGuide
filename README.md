@@ -4,8 +4,17 @@
 2.本文结合开源方式，讲解如何写一篇符合开源大环境的设计模式的项目。</br>
 3.结合每天十几万单交易和QPS达到1万的场景，展开讲解如何编写一个高可用、高可靠性的软文。</br>
 4.平时不免会遇到各种棘手的bug，也会参考实际情况，编写此文，如何排查和做好日志优化。</br>
-5.参考其他语言架构，分析nodejs的劣势和优势，致力于</br>
+5.参考其他语言架构，分析nodejs的劣势和优势</br>
 
+1. The best practice is compared with the Chinese and English versions. It is open source and reasonably combined with the DDD domain design and micro service design of Chinese Internet companies</ br>
+
+2. Combined with the open source approach, this article explains how to write a project that conforms to the design pattern of the open source environment</ br>
+
+3. Explain how to write a highly available and reliable soft text based on the scenario of more than 100000 transactions per day and 10000 QPS</ br>
+
+4. I will inevitably encounter various thorny bugs at ordinary times. I will also refer to the actual situation and write this article to find out how to troubleshoot and do a good job in log optimization</ br>
+
+5. Refer to other language architectures to analyze the disadvantages and advantages of nodejs</br>
 
 ## 使用指南
 
