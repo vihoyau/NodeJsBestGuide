@@ -24,7 +24,12 @@
 
 ## 如何贡献
 
-欢迎贡献代码，贡献流程可以参考 [developer's documentation](docs/devel/zh-CN/development.md)。
+- fork 本仓库至你自己的 github 仓库列表中
+- clone 你 fork 出来的仓库至本地开发
+- 进行本地开发，添加功能或者修改 bug，并且附上必要的测试
+- 请在 commit 中描述下添加的功能或者修改 bug 的详细信息，并提交至你的远程仓库
+- 在 PR 页面选择 New Pull Request，继续选择 compare across forks，在列表中选中你的 Fork，然后创建新的 PR
+- 查看 pr 下的 travis/appveypr CI 状态，如果执行失败请到对应页面查看失败原因并在你自己的仓库下进行修复，修复 commit 会自动同步到此 pr 下，无需关闭重启发起
 
 ## 社区
 
